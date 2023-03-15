@@ -4,7 +4,7 @@
 ## Introduction
 This repository is an official implementation of paper [How to Use Extra Training Data for Better Edge Detection?]().
 
-!(123.jpg)
+![Boosting](overview.png)
 
 **Abstract.** 
 ## News
