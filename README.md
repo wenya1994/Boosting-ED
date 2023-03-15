@@ -54,7 +54,8 @@ Download the augmented NYUD data from [baidu(1234)](https://pan.baidu.com/s/1L2V
         |   |-- GT
         ......
 ```
-#### BSDS+、Pascal-、Split_data、Pascal dataset
+#### classify_BSDS、 BSDS+、Pascal-、Split_data、Pascal dataset
+Download the classify_BSDS training data from [baidu(1234)](https://pan.baidu.com/s/1NMDOlvRD2ubswLPgOIFTmw).<br/>
 Download the BSDS+ training data from [baidu(mo8f)](https://pan.baidu.com/s/18BovnitenwCrdYkE1JLltw?pwd=mo8f).<br/>
 Download the Pascal- training data from [baidu(15d2)](https://pan.baidu.com/s/1c55qGxc1mzTLzSf7FwQJ8w?pwd=15d2).<br/>
 Download the Split_data data from [baidu(hsfj)](https://pan.baidu.com/s/16MZRO5mHzDRa5MS5dYacvg?pwd=hsfj).<br/>
