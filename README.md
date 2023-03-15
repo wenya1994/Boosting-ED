@@ -12,7 +12,7 @@ This repository is an official implementation of paper [How to Use Extra Trainin
 
 ### Datasets
 #### BSDS500
-Download the augmented BSDS500 data from [1234](https://pan.baidu.com/s/1HFD98P1VVnmQU4tEwbIapw).<br/>
+Download the augmented BSDS500 data from [baidu(1234)](https://pan.baidu.com/s/1HFD98P1VVnmQU4tEwbIapw).<br/>
 ```
 |-- data
     |-- BSDS
