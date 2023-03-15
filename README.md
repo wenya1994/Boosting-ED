@@ -12,7 +12,7 @@ This repository is an official implementation of paper [How to Use Extra Trainin
 
 ### Datasets
 #### BSDS500
-Download the augmented BSDS500 data from [here](http://vcl.ucsd.edu/hed/HED-BSDS.tar).<br/>
+Download the augmented BSDS500 data from [1234](https://pan.baidu.com/s/1HFD98P1VVnmQU4tEwbIapw).<br/>
 ```
 |-- data
     |-- BSDS
